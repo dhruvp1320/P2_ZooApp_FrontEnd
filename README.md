@@ -1,17 +1,13 @@
-# P2_ZooApp_FrontEnd
+# ZooApp_FrontEnd
 
-REVATURE PROJECT 2 
 
 CONTRIBUTORS:<BR>
 DRUV PATEL (TEAM LEAD)<BR>
 SANTIAGO GARCIA II <BR>
 JORGE AYESTAS<BR>
-ENOCK LEE<BR>
-PATRICK MILLER<BR>
 
 TECH STACK
-
-UI built with HTML, CSS, and JavaScript<BR>
+HTML, CSS, and JavaScript<BR>
 
 Online Zoo Web Application Summary <BR>
 -	All will allow visitors to create account and view animals virtually. <BR>
